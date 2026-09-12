@@ -1,0 +1,10 @@
+{
+  "name": "CAREER DEFINER",
+  "description": "Define Your Career. Discover Your Future. A premier career guidance and government examination information platform.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
